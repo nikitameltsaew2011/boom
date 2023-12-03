@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #00FFFF; 
+    padding: 10px;
+    border-radius: 19px;
+    
+}
+h1{
+    color: #04aac0ed;
+}
+footer p{
+    background-color: #008080;
+    
+}
+
+footer{
+    background-color: aqua;
+}
+nav a{
+    border-radius: 19px;
+    color: blueviolet;
+    background-color: rgb(28, 238, 238);
+    text-decoration: none;
+    padding: 15px;
+}
+nav{
+    margin: 20px;
+}
+.popylar{
+    background-color: mediumspringgreen;
+}
+p{
+    background-color: rgb(1, 213, 255);
+    padding:14px;
+    border-radius: 19px;
+    
+}
+
+
+
+p img{
+    height:40px;
+    width:40px;
+    
+}
+h2{
+    color: #0000FF;
+    border: 3px solid rgb(0, 162, 255);
+    text-align: center;
+}
+
